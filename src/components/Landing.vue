@@ -4,7 +4,7 @@
       <b-row>
         <b-col sm="12" md="12">
           <p class="primary">
-            <router-link to="/html">General Knowledge</router-link>
+            <router-link to="/html">General</router-link>
           </p>
         </b-col>
         <b-col sm="12" offset-sm="2" md="12" offset-md="0">
